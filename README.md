@@ -1,6 +1,6 @@
 # champion_maung
 
-A new Flutter project.
+Football Betting app with Burmese tradional odds
 
 ## Getting Started
 
